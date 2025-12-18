@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of TradePulse AI",
+  "description": "A next-generation stock monitoring interface featuring real-time data visualization, AI-driven market analysis, and voice-interactive financial assistants.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
